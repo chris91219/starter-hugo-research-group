@@ -3,7 +3,7 @@ title: Test paper
 publication_types:
   - "1"
 authors:
-  - WenhaoLi
+  - wenhao-li
 draft: false
 featured: false
 image:
